@@ -37,7 +37,12 @@ KDI-QWen2-inference.ipynb
 #### Case 4 Inference Llama3 KDI 2014 Model
 KDI-sLLM-Inference.ipynb
 
-Chat GPT 비교
+#### Chat GPT 비교
+QWen2 KDI 2014 Model
+![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
+Chat Gpt
+![image](https://github.com/user-attachments/assets/4c5e6950-dd43-4484-8926-6ab9573faf34)
+
 
 ![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
 
