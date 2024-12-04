@@ -34,9 +34,11 @@ KDI-Qwen2-FineTunning-OPDS.ipynb
 #### Case 3 Inference Qwen2-0.5B KDI 2014 Model
 KDI-QWen2-inference.ipynb
 
-![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
-
 #### Case 4 Inference Llama3 KDI 2014 Model
 KDI-sLLM-Inference.ipynb
+
+Chat GPT 비교
+
+![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
 
 
