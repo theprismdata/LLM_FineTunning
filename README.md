@@ -39,8 +39,9 @@ KDI-sLLM-Inference.ipynb
 
 #### Chat GPT 비교
 GPT vs QWen2 KDI 2014 Model
-![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
+![image](https://github.com/user-attachments/assets/84a855cc-f0e4-4889-939b-460e763ce41c)
 
+![image](https://github.com/user-attachments/assets/63b48df7-25d8-4227-b6ca-1295e737021b)
 
 
 ![image](https://github.com/user-attachments/assets/665dc2cd-0468-4393-a225-30935d0ae3b6)
